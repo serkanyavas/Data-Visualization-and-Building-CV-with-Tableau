@@ -1,5 +1,5 @@
 # Data-Visualization-and-Building-CV-with-Tableau
-__Made for Intro to Big Data Analysis lesson__
+__Made for Introduction to Big Data Analysis lesson__
 
 
 _With Tableau and Tableau's extensions_
